@@ -13,4 +13,4 @@ Jarred Kaiser\
 Josh Roth
 
 
-Anyone is welcome to use this code if you find it helpful. This code is just a collection of scripts we have developed for our own use, so support from the developers will be minimal. This is not meant to be a formal toolbox, so there maybe some bugs that have evaded us. Therefore, we can't take responsibility for making sure the code works your uses. However, please let us know if you find bugs (and fixes) so we can update the repo.   
+Anyone is welcome to use this code if you find it helpful. This code is just a collection of scripts we have developed for our own use, so support from the developers will be minimal. There maybe some bugs that have evaded us, therefore it is your responsibility for making sure the code works your uses. Please let us know if you find bugs (and even better if you have fixes) so we can update the repo.   
